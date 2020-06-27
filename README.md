@@ -1,2 +1,4 @@
 # Cards For Humanity
 In a world where information is quickly accessed and easy to come by, it has also become increasingly easy to become misinformed. People have begun to trust websites that, on the surface, seem unbiased and trustworthy, and as a result, form misguided views on social issues such as sex and gender, race and ethnicity, and health issues, which can have consequences. To tackle this issue, my team and I decided to focus on the top issues we have seen controversy over and put all the related misconceptions in one place. After doing thorough research, we created a deck of cards for each topic, and when the user hovers over a card on the website or clicks on a card on the app, they can learn what the reality of the matter is. We hope you have fun and learn something new in our Cards For Humanity!
+
+Hack for Humanity 2019 DevPost: https://devpost.com/software/cards-for-humanity-tvfngs
